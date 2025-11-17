@@ -2,7 +2,7 @@
 
 # Import the theme
 #theme: jekyll-theme-chirpy
-remote_theme: chirpy-theme/jekyll-theme-chirpy@v6.x # Replace v6.x with the desired version
+remote_theme: douglasbarton/jekyll-theme-birdy #@v6.x # Replace v6.x with the desired version
 
 # The language of the webpage
 lang: en
